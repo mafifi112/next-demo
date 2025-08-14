@@ -1,3 +1,5 @@
+import './main.css'
+
 export const metadata = {
   title: "Next.js on GitHub Pages",
   description: "Deploy your static Next.js site to GitHub Pages.",
