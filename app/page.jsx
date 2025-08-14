@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <main className="grid">
       {Object.entries(drugClasses).map(([drugClassEn, drugClassAr]) => (
-        <a href={"/next-demo/drugs/" + drugClassEn} key={drugClassEn}>
+        <a href={"drugs/" + drugClassEn} key={drugClassEn}>
           <h2>
             {drugClassEn} - {drugClassAr}
           </h2>
