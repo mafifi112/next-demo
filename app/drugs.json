@@ -1,0 +1,2248 @@
+[
+  {
+    "drug_name": {
+      "en": "ABIMOL",
+      "ar": "أبيمول"
+    },
+    "active_ingredients": [
+      {
+        "en": "PARACETAMOL",
+        "ar": "باراسيتامول"
+      }
+    ],
+    "classification": {
+      "en": "Analgesic & Antipyretic",
+      "ar": "مسكن ومضاد للحرارة"
+    },
+    "indications": [
+      {
+        "en": "Pain",
+        "ar": "الألم"
+      },
+      {
+        "en": "Fever",
+        "ar": "الحمى"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by blocking pain and fever signals in the brain.",
+      "ar": "يعمل عن طريق منع إشارات الألم والحمى في الدماغ."
+    },
+    "image_url": [
+      "https://dkud4u09qff41.cloudfront.net/Products/b43081be-3feb-4f3c-b984-338f862d2093.jpeg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ACTIFAST",
+      "ar": "أكتيفاست"
+    },
+    "active_ingredients": [
+      {
+        "en": "DICLOFENAC POTASSIUM",
+        "ar": "ديكلوفيناك البوتاسيوم"
+      }
+    ],
+    "classification": {
+      "en": "NSAID (Non-Steroidal Anti-Inflammatory Drug)",
+      "ar": "مضاد للالتهاب غير ستيرويدي"
+    },
+    "indications": [
+      {
+        "en": "Pain",
+        "ar": "الألم"
+      },
+      {
+        "en": "Inflammation",
+        "ar": "الالتهاب"
+      },
+      {
+        "en": "Fever",
+        "ar": "الحمى"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by blocking the body's production of chemicals that cause pain, swelling, and fever.",
+      "ar": "يعمل عن طريق منع إنتاج الجسم للمواد الكيميائية التي تسبب الألم والتورم والحمى."
+    },
+    "image_url": [
+      "https://www.rosheta.com/upload/e136fb587f1007e81a2ea0a7ad3aba2b61fe2a2d60e8b7875da479f268f23867.webp"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ADOL",
+      "ar": "أدول"
+    },
+    "active_ingredients": [
+      {
+        "en": "PARACETAMOL",
+        "ar": "باراسيتامول"
+      }
+    ],
+    "classification": {
+      "en": "Analgesic & Antipyretic",
+      "ar": "مسكن ومضاد للحرارة"
+    },
+    "indications": [
+      {
+        "en": "Pain",
+        "ar": "الألم"
+      },
+      {
+        "en": "Fever",
+        "ar": "الحمى"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by blocking pain and fever signals in the brain.",
+      "ar": "يعمل عن طريق منع إشارات الألم والحمى في الدماغ."
+    },
+    "image_url": [
+      "https://dkud4u09qff41.cloudfront.net/Products/3d5c6047-6346-41f6-bbda-6fcbf2ecac9e.jpeg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AGGREX",
+      "ar": "أجركس"
+    },
+    "active_ingredients": [
+      {
+        "en": "ACETYLSALICYLIC ACID",
+        "ar": "حمض أسيتيل ساليسيليك"
+      }
+    ],
+    "classification": {
+      "en": "Antiplatelet",
+      "ar": "مضاد لتخثر الدم"
+    },
+    "indications": [
+      {
+        "en": "Prevention of blood clots",
+        "ar": "الوقاية من الجلطات الدموية"
+      }
+    ],
+    "how_it_works": {
+      "en": "It makes blood platelets less sticky, which helps prevent the formation of blood clots.",
+      "ar": "يعمل على جعل الصفائح الدموية أقل لزوجة، مما يساعد على منع تكون الجلطات الدموية."
+    },
+    "image_url": [
+      "https://cdn.altibbi.com/cdn/cache/large/image/2021/03/30/e38b27fec3eae660c8ab9cf919fbd58c.png.webp"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ALKAPRESS",
+      "ar": "ألكابرس"
+    },
+    "active_ingredients": [
+      {
+        "en": "AMLODIPINE",
+        "ar": "أملوديبين"
+      }
+    ],
+    "classification": {
+      "en": "Antihypertensive",
+      "ar": "خافض لضغط الدم"
+    },
+    "indications": [
+      {
+        "en": "High blood pressure",
+        "ar": "ارتفاع ضغط الدم"
+      },
+      {
+        "en": "Chest pain (angina)",
+        "ar": "آلام الصدر (الذبحة الصدرية)"
+      }
+    ],
+    "how_it_works": {
+      "en": "It relaxes and widens blood vessels, which helps to lower blood pressure and improve blood flow to the heart.",
+      "ar": "يعمل على إرخاء وتوسيع الأوعية الدموية، مما يساعد على خفض ضغط الدم وتحسين تدفق الدم إلى القلب."
+    },
+    "image_url": [
+      "https://dkud4u09qff41.cloudfront.net/Products/747289da-55b8-4f09-a6eb-132f5d76d1cb.jpeg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ALVERINSPASM",
+      "ar": "ألفرينسبازم"
+    },
+    "active_ingredients": [
+      {
+        "en": "ALVERINE CITRATE",
+        "ar": "سترات الألفرين"
+      },
+      {
+        "en": "SIMETHICONE",
+        "ar": "سيميثيكون"
+      }
+    ],
+    "classification": {
+      "en": "Antispasmodic",
+      "ar": "مضاد للتقلصات"
+    },
+    "indications": [
+      {
+        "en": "Irritable Bowel Syndrome (IBS)",
+        "ar": "متلازمة القولون العصبي"
+      },
+      {
+        "en": "Abdominal pain and bloating",
+        "ar": "آلام البطن والانتفاخ"
+      }
+    ],
+    "how_it_works": {
+      "en": "Alverine relaxes the muscles of the intestines, and simethicone helps break up gas bubbles to relieve bloating and discomfort.",
+      "ar": "يعمل الألفرين على إرخاء عضلات الأمعاء، بينما يساعد السيميثيكون على تفتيت فقاعات الغاز لتخفيف الانتفاخ وعدم الراحة."
+    },
+    "image_url": [
+      "https://lh5.googleusercontent.com/proxy/TaxjRRT42ZuwSW_SGSg-fmMpMrJA0tXXlVJj0h-ZO5TjkLk-nYQYqLpnwnc5mgzP-cM2OQtfylIiYZ07F0DOzNKB0AeAceez4XEQhiBUyGEbEH7NRv98WIO2IKDCTiGN_MHJVA"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ALZENTAL",
+      "ar": "ألزنتال"
+    },
+    "active_ingredients": [
+      {
+        "en": "ALBENDAZOLE",
+        "ar": "ألبيندازول"
+      }
+    ],
+    "classification": {
+      "en": "Anthelmintic",
+      "ar": "مضاد للديدان"
+    },
+    "indications": [
+      {
+        "en": "Parasitic worm infections",
+        "ar": "العدوى الطفيلية بالديدان"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by preventing parasitic worms from absorbing sugar, which kills them.",
+      "ar": "يعمل عن طريق منع الديدان الطفيلية من امتصاص السكر، مما يؤدي إلى موتها."
+    },
+    "image_url": [
+      "https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/alzental-200mg-6-tabs-qsfw-01663775633.png"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ALPHINTERN",
+      "ar": "ألفينترن"
+    },
+    "active_ingredients": [
+      {
+        "en": "CHYMOTRYPSIN",
+        "ar": "كيموتربسين"
+      },
+      {
+        "en": "TRYPSIN",
+        "ar": "تربسين"
+      }
+    ],
+    "classification": {
+      "en": "Anti-inflammatory",
+      "ar": "مضاد للالتهابات"
+    },
+    "indications": [
+      {
+        "en": "Swelling and inflammation",
+        "ar": "التورم والالتهاب"
+      }
+    ],
+    "how_it_works": {
+      "en": "These enzymes help break down the proteins that cause swelling and inflammation, which reduces pain and promotes healing.",
+      "ar": "تعمل هذه الإنزيمات على تكسير البروتينات المسببة للتورم والالتهاب، مما يقلل الألم ويساعد على الشفاء."
+    },
+    "image_url": [
+      "https://i0.wp.com/doctornewsweb.com/wp-content/uploads/2022/11/%D8%A7%D9%84%D9%81%D9%8A%D9%86%D8%AA%D8%B1%D9%86.png?resize=780%2C470&ssl=1"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ALBENDAZOLE",
+      "ar": "ألبيندازول"
+    },
+    "active_ingredients": [
+      {
+        "en": "ALBENDAZOLE",
+        "ar": "ألبيندازول"
+      }
+    ],
+    "classification": {
+      "en": "Anthelmintic",
+      "ar": "مضاد للديدان"
+    },
+    "indications": [
+      {
+        "en": "Parasitic worm infections",
+        "ar": "العدوى الطفيلية بالديدان"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by preventing parasitic worms from absorbing sugar, which kills them.",
+      "ar": "يعمل عن طريق منع الديدان الطفيلية من امتصاص السكر، مما يؤدي إلى موتها."
+    },
+    "image_url": [
+      "https://doctorak.com/blog/wp-content/uploads/2024/11/%D8%A7%D9%84%D8%A8%D9%86%D8%AF%D8%A7%D8%B2%D9%88%D9%84--554x470.jpeg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AMARYL",
+      "ar": "أماريل"
+    },
+    "active_ingredients": [
+      {
+        "en": "GLIMEPIRIDE",
+        "ar": "جليميبيريد"
+      }
+    ],
+    "classification": {
+      "en": "Antidiabetic",
+      "ar": "مضاد لمرض السكري"
+    },
+    "indications": [
+      {
+        "en": "Type 2 diabetes",
+        "ar": "داء السكري من النوع الثاني"
+      }
+    ],
+    "how_it_works": {
+      "en": "It stimulates the pancreas to release more insulin, which helps lower blood sugar levels.",
+      "ar": "يعمل على تحفيز البنكرياس لإفراز المزيد من الأنسولين، مما يساعد على خفض مستويات السكر في الدم."
+    },
+    "image_url": [
+      "https://dkud4u09qff41.cloudfront.net/Products/3453c12b-26a6-497a-8a66-061809fbcf8f.jpeg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AMIGRAINE",
+      "ar": "أميجران"
+    },
+    "active_ingredients": [
+      {
+        "en": "ERGOTAMINE",
+        "ar": "إرغوتامين"
+      },
+      {
+        "en": "CAFFEINE",
+        "ar": "كافيين"
+      },
+      {
+        "en": "ANALGIN",
+        "ar": "أنالجين"
+      }
+    ],
+    "classification": {
+      "en": "Anti-migraine",
+      "ar": "مضاد للصداع النصفي"
+    },
+    "indications": [
+      {
+        "en": "Migraine attacks",
+        "ar": "نوبات الصداع النصفي"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by constricting blood vessels in the brain and relieving pain to stop an ongoing migraine attack.",
+      "ar": "يعمل على تضييق الأوعية الدموية في الدماغ وتسكين الألم لإيقاف نوبة الصداع النصفي."
+    },
+    "image_url": [
+      "https://masterapi.witheldokan.com/storage/seif-pharmacies/uploads/316661.webp"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AMRIZOLE",
+      "ar": "أمريزول"
+    },
+    "active_ingredients": [
+      {
+        "en": "METRONIDAZOLE",
+        "ar": "ميترونيدازول"
+      }
+    ],
+    "classification": {
+      "en": "Antiprotozoal",
+      "ar": "مضاد للطفيليات"
+    },
+    "indications": [
+      {
+        "en": "Bacterial and parasitic infections",
+        "ar": "الالتهابات البكتيرية والطفيلية"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by damaging the DNA of certain bacteria and parasites, which kills them.",
+      "ar": "يعمل على تدمير الحمض النووي في بعض البكتيريا والطفيليات، مما يؤدي إلى موتها."
+    },
+    "image_url": [
+      "https://www.bloompharmacy.com/cdn/shop/products/amrizole-500-mg-20-tablets-287542.jpg?v=1687634960"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AMBROPRO",
+      "ar": "أمبرو برو"
+    },
+    "active_ingredients": [
+      {
+        "en": "AMBROXOL",
+        "ar": "أمبروكسول"
+      }
+    ],
+    "classification": {
+      "en": "Mucolytic",
+      "ar": "مذيب للبلغم"
+    },
+    "indications": [
+      {
+        "en": "Respiratory diseases with thick mucus (e.g., bronchitis)",
+        "ar": "أمراض الجهاز التنفسي المصحوبة ببلغم سميك (مثل التهاب الشعب الهوائية)"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by thinning and loosening mucus in the airways, making it easier to clear the chest and breathe.",
+      "ar": "يعمل على تسييل وتخفيف البلغم في الشعب الهوائية، مما يسهل طرده من الصدر ويحسن التنفس."
+    },
+    "image_url": [
+      "https://masterapi.witheldokan.com/storage/seif-pharmacies/uploads/613628.webp"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AMBEZIM",
+      "ar": "أمبريزيم"
+    },
+    "active_ingredients": [
+      {
+        "en": "CHYMOTRYPSIN",
+        "ar": "كيموتربسين"
+      },
+      {
+        "en": "TRYPSIN",
+        "ar": "تربسين"
+      }
+    ],
+    "classification": {
+      "en": "Anti-inflammatory",
+      "ar": "مضاد للالتهابات"
+    },
+    "indications": [
+      {
+        "en": "Swelling and inflammation",
+        "ar": "التورم والالتهاب"
+      }
+    ],
+    "how_it_works": {
+      "en": "These enzymes help break down the proteins that cause swelling and inflammation, which reduces pain and promotes healing.",
+      "ar": "تعمل هذه الإنزيمات على تكسير البروتينات المسببة للتورم والالتهاب، مما يقلل الألم ويساعد على الشفاء."
+    },
+    "image_url": [
+      "https://media.gemini.media/img/Normal/2023/9/19/2023_9_19_18_50_2_601.jpg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AMIPRIDE",
+      "ar": "أمبرايد"
+    },
+    "active_ingredients": [
+      {
+        "en": "AMISULPRIDE",
+        "ar": "أميسولبرايد"
+      }
+    ],
+    "classification": {
+      "en": "Antipsychotic",
+      "ar": "مضاد للذهان"
+    },
+    "indications": [
+      {
+        "en": "Schizophrenia",
+        "ar": "الفصام"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by blocking specific receptors in the brain to help improve symptoms of schizophrenia.",
+      "ar": "يعمل على منع مستقبلات معينة في الدماغ للمساعدة في تحسين أعراض مرض الفصام."
+    },
+    "image_url": [
+      "https://tdawi.com/media/catalog/product/cache/c02fd180406f0a5f799ad7095a14ddcd/a/m/amipride_50_mg_4__2d6so18pie644ht7.jpg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ANTOPRAL",
+      "ar": "أنتوبرال"
+    },
+    "active_ingredients": [
+      {
+        "en": "PANTOPRAZOLE",
+        "ar": "بانتوبرازول"
+      }
+    ],
+    "classification": {
+      "en": "Anti-ulcer",
+      "ar": "مضاد للقرحة"
+    },
+    "indications": [
+      {
+        "en": "Stomach ulcers",
+        "ar": "قرحة المعدة"
+      },
+      {
+        "en": "GERD (Gastroesophageal reflux disease)",
+        "ar": "مرض ارتجاع المريء"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by reducing the amount of acid the stomach produces.",
+      "ar": "يعمل على تقليل كمية الحمض التي تنتجها المعدة."
+    },
+    "image_url": [
+      "https://www.rosheta.com/upload/4d7c1cda579ee279cffee2ac1b7c1b8ae37f8f96ebddd513d9303257cde01f8d.webp"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ACYCLOVIR",
+      "ar": "أسيكلوفير"
+    },
+    "active_ingredients": [
+      {
+        "en": "ACYCLOVIR",
+        "ar": "أسيكلوفير"
+      }
+    ],
+    "classification": {
+      "en": "Antiviral",
+      "ar": "مضاد للفيروسات"
+    },
+    "indications": [
+      {
+        "en": "Herpes virus infections",
+        "ar": "التهابات فيروس الهربس"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by stopping the herpes virus from multiplying, which helps the body fight the infection.",
+      "ar": "يعمل على وقف تكاثر فيروس الهربس، مما يساعد الجسم على محاربة العدوى."
+    },
+    "image_url": [
+      "https://www.bloompharmacy.com/cdn/shop/files/acyclovir-stada-800-mg-35-tablets-939342.jpg?v=1736607097"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AMOCEREBRAL",
+      "ar": "أموسيريبرال"
+    },
+    "active_ingredients": [
+      {
+        "en": "CINNARIZINE",
+        "ar": "سينارزين"
+      },
+      {
+        "en": "DIPHENHYDRAMINE",
+        "ar": "ديفينهيدرامين"
+      }
+    ],
+    "classification": {
+      "en": "Antivertigo",
+      "ar": "مضاد للدوخة والدوار"
+    },
+    "indications": [
+      {
+        "en": "Vertigo",
+        "ar": "الدوخة والدوار"
+      },
+      {
+        "en": "Motion sickness",
+        "ar": "دوار الحركة"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works on the inner ear to relieve dizziness and helps prevent nausea from vertigo and motion sickness.",
+      "ar": "يعمل على الأذن الداخلية لتخفيف الدوار ويساعد على منع الغثيان الناتج عن الدوخة ودوار الحركة."
+    },
+    "image_url": [
+      "https://masterapi.witheldokan.com/storage/seif-pharmacies/uploads/264839.webp"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AMOSAR",
+      "ar": "أموسار"
+    },
+    "active_ingredients": [
+      {
+        "en": "LOSARTAN POTASSIUM",
+        "ar": "لوسارتان البوتاسيوم"
+      }
+    ],
+    "classification": {
+      "en": "Antihypertensive",
+      "ar": "خافض لضغط الدم"
+    },
+    "indications": [
+      {
+        "en": "High blood pressure",
+        "ar": "ارتفاع ضغط الدم"
+      },
+      {
+        "en": "Kidney protection in diabetic patients",
+        "ar": "حماية الكلى لدى مرضى السكري"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by relaxing and widening blood vessels, which lowers blood pressure.",
+      "ar": "يعمل على إرخاء وتوسيع الأوعية الدموية، مما يساعد على خفض ضغط الدم."
+    },
+    "image_url": [
+      "https://masterapi.witheldokan.com/storage/seif-pharmacies/uploads/61001.webp"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AMEBAZOL",
+      "ar": "أميبازول"
+    },
+    "active_ingredients": [
+      {
+        "en": "SECNIDAZOLE",
+        "ar": "سيكنيدازول"
+      }
+    ],
+    "classification": {
+      "en": "Antiprotozoal",
+      "ar": "مضاد للطفيليات"
+    },
+    "indications": [
+      {
+        "en": "Protozoal infections",
+        "ar": "الالتهابات الطفيلية"
+      }
+    ],
+    "how_it_works": {
+      "en": "It kills certain protozoa by damaging their DNA.",
+      "ar": "يعمل على تدمير الحمض النووي في بعض الكائنات الأولية، مما يؤدي إلى موتها."
+    },
+    "image_url": [
+      "https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/1631531221amebazole-to-treat-acute-amebiasis-1gm-2-tabsjpg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ALERID",
+      "ar": "أليريد"
+    },
+    "active_ingredients": [
+      {
+        "en": "CETIRIZINE",
+        "ar": "سيتريزين"
+      }
+    ],
+    "classification": {
+      "en": "Anti-allergy",
+      "ar": "مضاد للحساسية"
+    },
+    "indications": [
+      {
+        "en": "Allergy symptoms",
+        "ar": "أعراض الحساسية"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by blocking histamine, a chemical that causes allergy symptoms like itching and sneezing.",
+      "ar": "يعمل على منع الهيستامين، وهي مادة كيميائية تسبب أعراض الحساسية مثل الحكة والعطس."
+    },
+    "image_url": [
+      "https://www.rosheta.com/upload/f7d96635e5a177b48bc836cd4a58829ff580be10dd85a3e983e40871d36244d6.webp"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AMIGRAWEST",
+      "ar": "أميجراويست"
+    },
+    "active_ingredients": [
+      {
+        "en": "ZOLMITRIPTAN",
+        "ar": "زولميتريبتان"
+      }
+    ],
+    "classification": {
+      "en": "Anti-migraine",
+      "ar": "مضاد للصداع النصفي"
+    },
+    "indications": [
+      {
+        "en": "Migraine attacks",
+        "ar": "نوبات الصداع النصفي"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by narrowing blood vessels around the brain and reducing pain signals to relieve a migraine attack.",
+      "ar": "يعمل على تضييق الأوعية الدموية حول الدماغ وتقليل إشارات الألم لتخفيف نوبة الصداع النصفي."
+    },
+    "image_url": [
+      "https://lh5.googleusercontent.com/proxy/hCiuaJHzaxtZ1qPnIkMT6imwYU4pyfeBujLgJrkHqDibRcig0MhrtEQg_Ik0uyuIePrLrDYtSeHd_jnOIz-9CSJIsdE-AGuHDzM1cAqvfHhZ4_BKlIO7Jh7s5X94Yg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AMAGLUST",
+      "ar": "أماجلوست"
+    },
+    "active_ingredients": [
+      {
+        "en": "GLIMEPIRIDE",
+        "ar": "جليميبيريد"
+      },
+      {
+        "en": "PIOGLITAZONE",
+        "ar": "بيوجليتازون"
+      }
+    ],
+    "classification": {
+      "en": "Antidiabetic",
+      "ar": "مضاد لمرض السكري"
+    },
+    "indications": [
+      {
+        "en": "Type 2 diabetes",
+        "ar": "داء السكري من النوع الثاني"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by helping the pancreas produce more insulin and making the body's cells more sensitive to insulin to lower blood sugar levels.",
+      "ar": "يعمل على مساعدة البنكرياس في إنتاج المزيد من الأنسولين وجعل خلايا الجسم أكثر حساسية للأنسولين لخفض مستويات السكر في الدم."
+    },
+    "image_url": [
+      "https://dkud4u09qff41.cloudfront.net/Products/2172b1b8-7213-4775-8543-e7b8f667e81e.jpeg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ALERTAM",
+      "ar": "أليرتام"
+    },
+    "active_ingredients": [
+      {
+        "en": "FEXOFENADINE",
+        "ar": "فيكسوفينادين"
+      }
+    ],
+    "classification": {
+      "en": "Anti-allergy",
+      "ar": "مضاد للحساسية"
+    },
+    "indications": [
+      {
+        "en": "Allergy symptoms",
+        "ar": "أعراض الحساسية"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by blocking histamine, a chemical that causes allergy symptoms like itching and sneezing.",
+      "ar": "يعمل على منع الهيستامين، وهي مادة كيميائية تسبب أعراض الحساسية مثل الحكة والعطس."
+    },
+    "image_url": [
+      "https://media.gemini.media/img/large/2022/6/16/2022_6_16_18_39_28_158.jpg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ALLERBAN",
+      "ar": "ألليربان"
+    },
+    "active_ingredients": [
+      {
+        "en": "KETOTIFEN",
+        "ar": "كيتوتيفين"
+      }
+    ],
+    "classification": {
+      "en": "Anti-allergy",
+      "ar": "مضاد للحساسية"
+    },
+    "indications": [
+      {
+        "en": "Asthma prevention",
+        "ar": "الوقاية من الربو"
+      },
+      {
+        "en": "Allergy symptoms",
+        "ar": "أعراض الحساسية"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by stabilizing immune cells to prevent them from releasing the chemicals that cause allergic reactions and asthma symptoms.",
+      "ar": "يعمل على تثبيت خلايا الجهاز المناعي لمنعها من إفراز المواد الكيميائية التي تسبب الحساسية وأعراض الربو."
+    },
+    "image_url": [
+      "https://www.rosheta.com/upload/e600e91cf50f043668c3dc9167dcc0f66fe1e86e94df4b4c503997ad2775cd5b.webp"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ALLERFEN",
+      "ar": "أليرفين"
+    },
+    "active_ingredients": [
+      {
+        "en": "FEXOFENADINE",
+        "ar": "فيكسوفينادين"
+      }
+    ],
+    "classification": {
+      "en": "Anti-allergy",
+      "ar": "مضاد للحساسية"
+    },
+    "indications": [
+      {
+        "en": "Allergy symptoms",
+        "ar": "أعراض الحساسية"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by blocking histamine, a chemical that causes allergy symptoms like itching and sneezing.",
+      "ar": "يعمل على منع الهيستامين، وهي مادة كيميائية تسبب أعراض الحساسية مثل الحكة والعطس."
+    },
+    "image_url": [
+      "https://media.gemini.media/img/large/2022/6/16/2022_6_16_18_58_53_332.jpg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ALERGOLIBER",
+      "ar": "أليرجوليبر"
+    },
+    "active_ingredients": [
+      {
+        "en": "RUPATADINE",
+        "ar": "روبيتادين"
+      }
+    ],
+    "classification": {
+      "en": "Anti-allergy",
+      "ar": "مضاد للحساسية"
+    },
+    "indications": [
+      {
+        "en": "Allergy symptoms",
+        "ar": "أعراض الحساسية"
+      }
+    ],
+    "how_it_works": {
+      "en": "It blocks histamine and other substances that cause allergy symptoms like itching and sneezing.",
+      "ar": "يعمل على منع الهيستامين والمواد الأخرى التي تسبب أعراض الحساسية مثل الحكة والعطس."
+    },
+    "image_url": ["https://cdn.supercommerce.io/tarshouby/uploads/33216-1.jpg"]
+  },
+  {
+    "drug_name": {
+      "en": "ANTODINE",
+      "ar": "أنتودين"
+    },
+    "active_ingredients": [
+      {
+        "en": "FAMOTIDINE",
+        "ar": "فاموتيدين"
+      }
+    ],
+    "classification": {
+      "en": "Anti-ulcer",
+      "ar": "مضاد للقرحة"
+    },
+    "indications": [
+      {
+        "en": "Stomach ulcers",
+        "ar": "قرحة المعدة"
+      },
+      {
+        "en": "GERD (Gastroesophageal reflux disease)",
+        "ar": "مرض ارتجاع المريء"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by blocking signals in the stomach that tell it to produce acid, which helps to heal ulcers and reduce heartburn.",
+      "ar": "يعمل على منع الإشارات في المعدة التي تحفز إنتاج الحمض، مما يساعد على علاج القرحة وتقليل حرقة المعدة."
+    },
+    "image_url": [
+      "https://dkud4u09qff41.cloudfront.net/Products/c08cea84-8b32-4e96-9df2-23be54973dce.jpeg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ANAFRONIL",
+      "ar": "أنافرانيل"
+    },
+    "active_ingredients": [
+      {
+        "en": "CLOMIPRAMINE",
+        "ar": "كلوميبرامين"
+      }
+    ],
+    "classification": {
+      "en": "Antidepressant",
+      "ar": "مضاد للاكتئاب"
+    },
+    "indications": [
+      {
+        "en": "Obsessive-Compulsive Disorder (OCD)",
+        "ar": "الوسواس القهري"
+      },
+      {
+        "en": "Depression",
+        "ar": "الاكتئاب"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by increasing the levels of certain natural chemicals in the brain, which helps to improve mood and reduce obsessive thoughts.",
+      "ar": "يعمل على زيادة مستويات بعض المواد الكيميائية الطبيعية في الدماغ، مما يساعد على تحسين المزاج وتقليل الأفكار الوسواسية."
+    },
+    "image_url": [
+      "https://dkud4u09qff41.cloudfront.net/Products/3820ccf4-a0ed-4a56-a5ea-e2bd52ad15fc.jpeg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ANTINAL",
+      "ar": "أنتينال"
+    },
+    "active_ingredients": [
+      {
+        "en": "NIFUROXAZIDE",
+        "ar": "نيفوروكسازيد"
+      }
+    ],
+    "classification": {
+      "en": "anti-diarrheal",
+      "ar": "مضاد للإسهال"
+    },
+    "indications": [
+      {
+        "en": "Bacterial diarrhea",
+        "ar": "الإسهال البكتيري"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by killing the bacteria in the gut that are causing the diarrhea.",
+      "ar": "يعمل على قتل البكتيريا في الأمعاء التي تسبب الإسهال."
+    },
+    "image_url": ["https://dwaprices.com/upload/1675634120.jpg"]
+  },
+  {
+    "drug_name": {
+      "en": "ANTIFLAM",
+      "ar": "أنتيفلام"
+    },
+    "active_ingredients": [
+      {
+        "en": "DICLOFENAC POTASSIUM",
+        "ar": "ديكلوفيناك البوتاسيوم"
+      }
+    ],
+    "classification": {
+      "en": "NSAID (Non-Steroidal Anti-Inflammatory Drug)",
+      "ar": "مضاد التهاب غير ستيرويدي"
+    },
+    "indications": [
+      {
+        "en": "Pain and inflammation",
+        "ar": "الألم والالتهاب"
+      },
+      {
+        "en": "Fever",
+        "ar": "الحمى"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by blocking the body's production of certain chemicals that cause pain and swelling.",
+      "ar": "يعمل على منع الجسم من إنتاج مواد كيميائية معينة تسبب الألم والتورم."
+    },
+    "image_url": [
+      "https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/antiflam-50-mg-20-tabs-kjnp-01692180111.png"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ANGIOBLOCK",
+      "ar": "أنجيوبلوك"
+    },
+    "active_ingredients": [
+      {
+        "en": "HYDROCHLOROTHIAZIDE",
+        "ar": "هيدروكلوروثيازيد"
+      },
+      {
+        "en": "IRBESARTAN",
+        "ar": "إربيسارتان"
+      }
+    ],
+    "classification": {
+      "en": "Antihypertensive",
+      "ar": "خافض لضغط الدم"
+    },
+    "indications": [
+      {
+        "en": "High blood pressure",
+        "ar": "ارتفاع ضغط الدم"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by relaxing blood vessels and helping the body remove excess fluid, which together lower blood pressure.",
+      "ar": "يعمل على إرخاء الأوعية الدموية ويساعد الجسم على التخلص من السوائل الزائدة، مما يؤدي إلى خفض ضغط الدم."
+    },
+    "image_url": [
+      "https://lh6.googleusercontent.com/proxy/HWMaAl7VS6rmgaOtfBE5R6RPo0E76dBbod0iE0k0P_20qxwzy-DCBuCBwWDKB4uF6btmFmKemsq95p8PShyI5Rzsi8-2XsWIYjJ2lFyzRkoJ_85TWm1ueLmDVToVPZ1La6s"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "anticox",
+      "ar": "أنتيكوكس"
+    },
+    "active_ingredients": [
+      {
+        "en": "meloxicam",
+        "ar": "ميلوكسيكام"
+      }
+    ],
+    "classification": {
+      "en": "NSAID (Non-Steroidal Anti-Inflammatory Drug)",
+      "ar": "مضاد التهاب غير ستيرويدي"
+    },
+    "indications": [
+      {
+        "en": "Pain and inflammation",
+        "ar": "الألم والالتهاب"
+      },
+      {
+        "en": "Osteoarthritis and Rheumatoid arthritis",
+        "ar": "التهاب المفاصل الروماتويدي وهشاشة العظام"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by blocking the body's production of certain chemicals that cause pain and inflammation.",
+      "ar": "يعمل على منع إنتاج مواد كيميائية معينة في الجسم تسبب الألم والالتهاب."
+    },
+    "image_url": [
+      "https://delmar-test.linkedgates.com/images/items/136176.JPEG"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ANDOPENTENE",
+      "ar": "أندوبينتين"
+    },
+    "active_ingredients": [
+      {
+        "en": "GABAPENTIN",
+        "ar": "جابابنتين"
+      }
+    ],
+    "classification": {
+      "en": "Antiepileptic",
+      "ar": "مضاد للصرع"
+    },
+    "indications": [
+      {
+        "en": "Epilepsy",
+        "ar": "الصرع"
+      },
+      {
+        "en": "Neuropathic pain",
+        "ar": "آلام الأعصاب"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by affecting nerve signals in the brain and nervous system to control seizures and relieve nerve pain.",
+      "ar": "يعمل على التأثير في الإشارات العصبية في الدماغ والجهاز العصبي للسيطرة على نوبات الصرع وتخفيف آلام الأعصاب."
+    },
+    "image_url": [
+      "https://aymanpharmacy.com/wp-content/uploads/2022/01/Andopetene-300-mg.jpg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ANSELACOX",
+      "ar": "أنسيلاكوس"
+    },
+    "active_ingredients": [
+      {
+        "en": "ETORICOXIB",
+        "ar": "إيتوريكوكسيب"
+      }
+    ],
+    "classification": {
+      "en": "NSAID (Non-Steroidal Anti-Inflammatory Drug)",
+      "ar": "مضاد التهاب غير ستيرويدي"
+    },
+    "indications": [
+      {
+        "en": "Pain and inflammation",
+        "ar": "الألم والالتهاب"
+      },
+      {
+        "en": "Gout",
+        "ar": "النقرس"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by selectively blocking the chemicals that cause pain and inflammation in the body.",
+      "ar": "يعمل على منع المواد الكيميائية التي تسبب الألم والالتهاب في الجسم."
+    },
+    "image_url": [
+      "https://lh5.googleusercontent.com/proxy/WSpZhKsVwlw2KKWaKTc6Qdt0QaFjgFhyEUwL-QjqzjnGhGrdFhuB0DYUU9MY6TJu4FozLEAbYEu5HQRanCu_fMz9ZRwa8IGRL3dPfYPrCGx__icHOpm8xwHZKkisksDDEnxL"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ANTIFLU",
+      "ar": "أنتي فلو"
+    },
+    "active_ingredients": [
+      {
+        "en": "IBUPROFEN",
+        "ar": "ايبوبروفين"
+      },
+      {
+        "en": "CHLORPHENIRAMINE",
+        "ar": "كلورفينيرامين"
+      },
+      {
+        "en": "PSEUDOEPHEDRINE",
+        "ar": "سودوإيفيدرين"
+      },
+      {
+        "en": "CAFFEINE",
+        "ar": "كافيين"
+      }
+    ],
+    "classification": {
+      "en": "Cold & Flu",
+      "ar": "أدوية البرد والإنفلونزا"
+    },
+    "indications": [
+      {
+        "en": "Cold and flu symptoms",
+        "ar": "أعراض البرد والإنفلونزا"
+      }
+    ],
+    "how_it_works": {
+      "en": "It is a combination drug that relieves pain and fever, reduces sneezing and runny nose, clears a stuffy nose, and fights drowsiness.",
+      "ar": "هو دواء مركب يخفف الألم والحمى، ويقلل العطس وسيلان الأنف، ويزيل احتقان الأنف، ويقاوم النعاس."
+    },
+    "image_url": ["https://adwia.com//upfiles/thumbs/000/0005416_19.png"]
+  },
+  {
+    "drug_name": {
+      "en": "ANASTRODEX",
+      "ar": "أناستروديكس"
+    },
+    "active_ingredients": [
+      {
+        "en": "ANASTROZOLE",
+        "ar": "أناستروزول"
+      }
+    ],
+    "classification": {
+      "en": "Antineoplastic",
+      "ar": "مضاد للأورام"
+    },
+    "indications": [
+      {
+        "en": "Breast cancer",
+        "ar": "سرطان الثدي"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by lowering estrogen levels in the body, which helps to slow the growth of some types of breast cancer.",
+      "ar": "يعمل على خفض مستويات هرمون الإستروجين في الجسم، مما يساعد على إبطاء نمو بعض أنواع سرطان الثدي."
+    },
+    "image_url": [
+      "https://egyptdwa.com/dwa/anastrozol-sandoz-1-mg-30-f-c-tab-14108.jpg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ANOXICAM",
+      "ar": "أنوكسيكام"
+    },
+    "active_ingredients": [
+      {
+        "en": "TENOXICAM",
+        "ar": "تينوكسيكام"
+      }
+    ],
+    "classification": {
+      "en": "NSAID (Non-Steroidal Anti-Inflammatory Drug)",
+      "ar": "مضاد التهاب غير ستيرويدي"
+    },
+    "indications": [
+      {
+        "en": "Pain and inflammation",
+        "ar": "الألم والالتهاب"
+      },
+      {
+        "en": "Osteoarthritis and Rheumatoid arthritis",
+        "ar": "التهاب المفاصل الروماتويدي وهشاشة العظام"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by blocking the body's production of certain chemicals that cause pain and inflammation.",
+      "ar": "يعمل على منع الجسم من إنتاج مواد كيميائية معينة تسبب الألم والالتهاب."
+    },
+    "image_url": [
+      "https://cdn.youcan.shop/stores/32241ddb975902bee2eb3c7b60b0ad9e/products/Ct28ZygslnNY9wSB4CBAJoGB6wNx8vSOCSZIjE9N.png"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ANALLERGE",
+      "ar": "أناللرج"
+    },
+    "active_ingredients": [
+      {
+        "en": "CHLORPHENIRAMINE",
+        "ar": "كلورفينيرامين"
+      }
+    ],
+    "classification": {
+      "en": "Anti-allergy",
+      "ar": "مضاد للحساسية"
+    },
+    "indications": [
+      {
+        "en": "Allergy symptoms",
+        "ar": "أعراض الحساسية"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by blocking histamine, a chemical that causes allergy symptoms like sneezing and itching.",
+      "ar": "يعمل على منع الهيستامين، وهي مادة كيميائية تسبب أعراض الحساسية مثل العطس والحكة."
+    },
+    "image_url": [
+      "https://dkud4u09qff41.cloudfront.net/Products/bcd8ccf5-4b30-4cf7-8668-90854254b249.jpeg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ALZMENDA",
+      "ar": "ألزميندا"
+    },
+    "active_ingredients": [
+      {
+        "en": "MEMANTINE",
+        "ar": "ميمانتين"
+      }
+    ],
+    "classification": {
+      "en": "Anti-Alzheimer's",
+      "ar": "مضاد للزهايمر"
+    },
+    "indications": [
+      {
+        "en": "Alzheimer's disease",
+        "ar": "مرض الزهايمر"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by regulating a brain chemical to help improve memory and cognitive function in patients with Alzheimer's disease.",
+      "ar": "يعمل على تنظيم مادة كيميائية في الدماغ للمساعدة في تحسين الذاكرة والوظائف الإدراكية لدى مرضى الزهايمر."
+    },
+    "image_url": [
+      "https://lh3.googleusercontent.com/proxy/kch-uCcadvUWPOqO2wMisimR_5bdzD2qNPT_6F4Gfkj_-_EWYBd0FD6GDMS_Jfj9S2-YOumK8Yg-w60ijBBkCZ6upSHg_vvubE7_sFY0bY65C9VqI_AumYG9aKc88AJ4Ag"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ANDOVIMPAMIDE",
+      "ar": "أندوفيمباميد"
+    },
+    "active_ingredients": [
+      {
+        "en": "LACOSAMIDE",
+        "ar": "لاكوزاميد"
+      }
+    ],
+    "classification": {
+      "en": "Antiepileptic",
+      "ar": "مضاد للصرع"
+    },
+    "indications": [
+      {
+        "en": "Epilepsy",
+        "ar": "الصرع"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by stabilizing nerve cell activity in the brain to prevent and control seizures.",
+      "ar": "يعمل على استقرار نشاط الخلايا العصبية في الدماغ لمنع نوبات الصرع والسيطرة عليها."
+    },
+    "image_url": [
+      "https://tdawi.com/media/catalog/product/cache/c02fd180406f0a5f799ad7095a14ddcd/u/n/untitled-design-37.png"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "APEXIDONE",
+      "ar": "أبيكسيدون"
+    },
+    "active_ingredients": [
+      {
+        "en": "RISPERIDONE",
+        "ar": "ريسبيريدون"
+      }
+    ],
+    "classification": {
+      "en": "Antipsychotic",
+      "ar": "مضاد للذهان"
+    },
+    "indications": [
+      {
+        "en": "Schizophrenia",
+        "ar": "الفصام"
+      },
+      {
+        "en": "Bipolar disorder",
+        "ar": "الاضطراب ثنائي القطب"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by balancing chemicals in the brain to help improve mood, thinking, and behavior.",
+      "ar": "يعمل على موازنة المواد الكيميائية في الدماغ للمساعدة في تحسين المزاج والتفكير والسلوك."
+    },
+    "image_url": ["https://cdn.supercommerce.io/tarshouby/uploads/100097-1.jpg"]
+  },
+  {
+    "drug_name": {
+      "en": "APILIPEX",
+      "ar": "أبيليبكس"
+    },
+    "active_ingredients": [
+      {
+        "en": "ARIPIPRAZOLE",
+        "ar": "أريبيبرازول"
+      }
+    ],
+    "classification": {
+      "en": "Antipsychotic",
+      "ar": "مضاد للذهان"
+    },
+    "indications": [
+      {
+        "en": "Schizophrenia",
+        "ar": "الفصام"
+      },
+      {
+        "en": "Bipolar disorder",
+        "ar": "الاضطراب ثنائي القطب"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by balancing the levels of certain natural chemicals in the brain to help stabilize mood and behavior.",
+      "ar": "يعمل على موازنة مستويات بعض المواد الكيميائية الطبيعية في الدماغ للمساعدة في استقرار المزاج والسلوك."
+    },
+    "image_url": [
+      "https://lh4.googleusercontent.com/proxy/XnsgVx3QEFszdmqGqHJKG5MdIvmjYZkePLCZ5NhGSqlXhihP82oPxuv7aq82YWci9ZS0V-WfZFZGRUm4qtMFz6Dus4ksPKPuaKcy2th5M7BsmAqmxFLtb7udjCDB6syumUr_G4I"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ARTHROFAST",
+      "ar": "أرثروفاست"
+    },
+    "active_ingredients": [
+      {
+        "en": "DICLOFENAC SODIUM",
+        "ar": "ديكلوفيناك الصوديوم"
+      }
+    ],
+    "classification": {
+      "en": "NSAID (Non-Steroidal Anti-Inflammatory Drug)",
+      "ar": "مضاد التهاب غير ستيرويدي"
+    },
+    "indications": [
+      {
+        "en": "Pain and inflammation",
+        "ar": "الألم والالتهاب"
+      },
+      {
+        "en": "Fever",
+        "ar": "الحمى"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by blocking the body's production of certain chemicals that cause pain and swelling.",
+      "ar": "يعمل على منع الجسم من إنتاج مواد كيميائية معينة تسبب الألم والتورم."
+    },
+    "image_url": [
+      "https://dkud4u09qff41.cloudfront.net/Products/bb33ab5f-045c-4dda-ace8-93f463e3d71f.jpeg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ARTHFREE",
+      "ar": "أرث فري"
+    },
+    "active_ingredients": [
+      {
+        "en": "LEFLUNOMIDE",
+        "ar": "ليفلونوميد"
+      }
+    ],
+    "classification": {
+      "en": "NSAID (Non-Steroidal Anti-Inflammatory Drug)",
+      "ar": "مضاد التهاب غير ستيرويدي"
+    },
+    "indications": [
+      {
+        "en": "Rheumatoid arthritis",
+        "ar": "التهاب المفاصل الروماتويدي"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by reducing the activity of the immune system to decrease inflammation and joint damage caused by rheumatoid arthritis.",
+      "ar": "يعمل على تقليل نشاط الجهاز المناعي لخفض الالتهاب وتلف المفاصل الناتج عن التهاب المفاصل الروماتويدي."
+    },
+    "image_url": [
+      "https://lh6.googleusercontent.com/proxy/lRGmFwqIlOOfR27XtOgJBjpv1l1NAkcW1bINF2FfJ5h4eeGbvTrq8GfPR8lQsgC0PPbLSCwUFkev4lOOSyCOCU4X-GFfba9Nwu3WTWc_q_78zQ0yJ8Nosj5kVRiSyAD7lTg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ARTHINEUR",
+      "ar": "أرثينيور"
+    },
+    "active_ingredients": [
+      {
+        "en": "DICLOFENAC SODIUM",
+        "ar": "ديكلوفيناك الصوديوم"
+      },
+      {
+        "en": "VITAMIN B1",
+        "ar": "فيتامين ب1"
+      },
+      {
+        "en": "VITAMIN B6",
+        "ar": "فيتامين ب6"
+      },
+      {
+        "en": "VITAMIN B12",
+        "ar": "فيتامين ب12"
+      }
+    ],
+    "classification": {
+      "en": "NSAID (Non-Steroidal Anti-Inflammatory Drug)",
+      "ar": "مضاد التهاب غير ستيرويدي"
+    },
+    "indications": [
+      {
+        "en": "Pain and inflammation",
+        "ar": "الألم والالتهاب"
+      },
+      {
+        "en": "Neuropathic pain",
+        "ar": "آلام الأعصاب"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by combining a pain-relieving and anti-inflammatory drug with B vitamins that support nerve health.",
+      "ar": "يعمل على الجمع بين دواء مسكن ومضاد للالتهاب مع فيتامينات ب التي تدعم صحة الأعصاب."
+    },
+    "image_url": [
+      "https://fatmalzahraa-ph.com/wp-content/uploads/2022/10/ARTHINEUR-10-CAP.jpg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ARYTHREX",
+      "ar": "أريثريكس"
+    },
+    "active_ingredients": [
+      {
+        "en": "CELECOXIB",
+        "ar": "سيليكوكسيب"
+      }
+    ],
+    "classification": {
+      "en": "NSAID (Non-Steroidal Anti-Inflammatory Drug)",
+      "ar": "مضاد التهاب غير ستيرويدي"
+    },
+    "indications": [
+      {
+        "en": "Pain and inflammation",
+        "ar": "الألم والالتهاب"
+      },
+      {
+        "en": "Arthritis",
+        "ar": "التهاب المفاصل"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by blocking a specific enzyme in the body that causes pain and swelling, which helps to relieve symptoms of arthritis.",
+      "ar": "يعمل على منع إنزيم معين في الجسم يسبب الألم والتورم، مما يساعد على تخفيف أعراض التهاب المفاصل."
+    },
+    "image_url": [
+      "https://www.rosheta.com/upload/998d859563006c477e6596b97de9515ab1c2af73f2e2841fdb97f9dc7e6317ad.webp"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ARIPIPRAZOLE",
+      "ar": "أريبيبرازول"
+    },
+    "active_ingredients": [
+      {
+        "en": "ARIPIPRAZOLE",
+        "ar": "أريبيبرازول"
+      }
+    ],
+    "classification": {
+      "en": "Antipsychotic",
+      "ar": "مضاد للذهان"
+    },
+    "indications": [
+      {
+        "en": "Schizophrenia",
+        "ar": "الفصام"
+      },
+      {
+        "en": "Bipolar disorder",
+        "ar": "الاضطراب ثنائي القطب"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by balancing the levels of certain natural chemicals in the brain to help stabilize mood and behavior.",
+      "ar": "يعمل على موازنة مستويات بعض المواد الكيميائية الطبيعية في الدماغ للمساعدة في استقرار المزاج والسلوك."
+    },
+    "image_url": [
+      "https://lh5.googleusercontent.com/proxy/j6tDr5gdVKA0OZrI7FMnpoW0nhAC1k0SHWSMgXjtu4Bf_aaacmTbI5zygLXV0Yhu_iFoxeKLgHGNKRG_YCfOFy3rr62pV9LDXd06qrQqOGr7b6rj7sQ2yOiKQnKifBmyv4l3vh8"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ARDOXIMAG",
+      "ar": "أردوكسيماج"
+    },
+    "active_ingredients": [
+      {
+        "en": "ESOMEPRAZOLE",
+        "ar": "إيزوميبرازول"
+      }
+    ],
+    "classification": {
+      "en": "Anti-ulcer",
+      "ar": "مضاد للقرحة"
+    },
+    "indications": [
+      {
+        "en": "GERD (Gastroesophageal reflux disease)",
+        "ar": "مرض ارتجاع المريء"
+      },
+      {
+        "en": "Stomach ulcers",
+        "ar": "قرحة المعدة"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by reducing the amount of acid the stomach produces, which helps to heal ulcers and relieve heartburn.",
+      "ar": "يعمل على تقليل كمية الحمض التي تنتجها المعدة، مما يساعد على شفاء القرحة وتخفيف حرقة المعدة."
+    },
+    "image_url": [
+      "https://taypharmacies.com/wp-content/uploads/2024/07/2024-07-17T133305.081.png"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ARMOWAKE",
+      "ar": "أرموويك"
+    },
+    "active_ingredients": [
+      {
+        "en": "ARMODAFINIL",
+        "ar": "أرمودافينيل"
+      }
+    ],
+    "classification": {
+      "en": "Wakefulness-promoting",
+      "ar": "محفز لليقظة"
+    },
+    "indications": [
+      {
+        "en": "Excessive sleepiness (narcolepsy, sleep apnea)",
+        "ar": "النعاس المفرط (للنوم القهري وانقطاع التنفس أثناء النوم)"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by stimulating the brain to promote wakefulness and reduce excessive sleepiness.",
+      "ar": "يعمل على تحفيز الدماغ لتعزيز اليقظة وتقليل النعاس المفرط."
+    },
+    "image_url": [
+      "https://masterapi.witheldokan.com/storage/seif-pharmacies/uploads/383868.webp"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ASPIRIN",
+      "ar": "أسبرين"
+    },
+    "active_ingredients": [
+      {
+        "en": "ACETYLSALICYLIC ACID",
+        "ar": "حمض أسيتيل ساليسيليك"
+      }
+    ],
+    "classification": {
+      "en": "Antiplatelet",
+      "ar": "مضاد لتجلط الصفائح الدموية"
+    },
+    "indications": [
+      {
+        "en": "Blood clot prevention",
+        "ar": "الوقاية من جلطات الدم"
+      },
+      {
+        "en": "Pain and fever",
+        "ar": "الألم والحمى"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by preventing blood cells from clumping together to form clots, and also by blocking chemicals that cause pain and fever.",
+      "ar": "يعمل على منع خلايا الدم من التكتل لتكوين الجلطات، وأيضًا عن طريق منع المواد الكيميائية التي تسبب الألم والحمى."
+    },
+    "image_url": [
+      "https://lh6.googleusercontent.com/proxy/CUlKsZ11qGTlBJkQsCVJEuKeRU_BYVTvSOrl39aXcEK-yktcI5jNrAy8uAMkMrHoc1Ds_67NLro8fBrRfeJ8EpC0mcsZSKaxrkre0-NeMjFsCxTwPB7-EPRF6CYZj8q3Cs3viLOAkGof3A"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ASPOCID",
+      "ar": "أسبوسيد"
+    },
+    "active_ingredients": [
+      {
+        "en": "ACETYLSALICYLIC ACID",
+        "ar": "حمض أسيتيل ساليسيليك"
+      }
+    ],
+    "classification": {
+      "en": "Antiplatelet",
+      "ar": "مضاد لتجلط الصفائح الدموية"
+    },
+    "indications": [
+      {
+        "en": "Blood clot prevention",
+        "ar": "الوقاية من جلطات الدم"
+      },
+      {
+        "en": "Pain and fever",
+        "ar": "الألم والحمى"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by preventing blood cells from clumping together to form clots, and also by blocking chemicals that cause pain and fever.",
+      "ar": "يعمل على منع خلايا الدم من التكتل لتكوين الجلطات، وأيضًا عن طريق منع المواد الكيميائية التي تسبب الألم والحمى."
+    },
+    "image_url": [
+      "https://delmar-test.linkedgates.com/images/items/119762.JPEG"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ASMAKAST",
+      "ar": "أزماكاست"
+    },
+    "active_ingredients": [
+      {
+        "en": "MONTELUKAST",
+        "ar": "مونتيلوكاست"
+      }
+    ],
+    "classification": {
+      "en": "Anti-asthmatic",
+      "ar": "مضاد للربو"
+    },
+    "indications": [
+      {
+        "en": "Asthma prevention",
+        "ar": "الوقاية من الربو"
+      },
+      {
+        "en": "Allergy symptoms",
+        "ar": "أعراض الحساسية"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by blocking natural chemicals that cause inflammation and tighten the airways, helping to prevent asthma attacks and reduce allergy symptoms.",
+      "ar": "يعمل على منع المواد الكيميائية الطبيعية التي تسبب الالتهاب وتضيق مجاري الهواء، مما يساعد على الوقاية من نوبات الربو وتقليل أعراض الحساسية."
+    },
+    "image_url": [
+      "https://dkud4u09qff41.cloudfront.net/Products/fee853b6-3916-47f2-81d4-e0dbc5369046.jpeg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AZATHIOPRINE",
+      "ar": "أزاثيوبرين"
+    },
+    "active_ingredients": [
+      {
+        "en": "AZATHIOPRINE",
+        "ar": "أزاثيوبراين"
+      }
+    ],
+    "classification": {
+      "en": "Immunosuppressant",
+      "ar": "مثبط للمناعة"
+    },
+    "indications": [
+      {
+        "en": "Organ transplant rejection prevention",
+        "ar": "الوقاية من رفض الجسم للعضو المزروع"
+      },
+      {
+        "en": "Autoimmune diseases",
+        "ar": "أمراض المناعة الذاتية"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by weakening the body's immune system to prevent it from attacking a transplanted organ or to reduce symptoms of autoimmune diseases.",
+      "ar": "يعمل على إضعاف جهاز المناعة في الجسم لمنعه من مهاجمة عضو مزروع أو لتقليل أعراض أمراض المناعة الذاتية."
+    },
+    "image_url": [
+      "https://alamalpharmacies.com/wp-content/uploads/2024/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%A8%D8%AF%D9%88%D9%86-%D8%B9%D9%86%D9%88%D8%A7%D9%86-2024-09-21T154102.442.png"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ARICEPT",
+      "ar": "أريسبت"
+    },
+    "active_ingredients": [
+      {
+        "en": "DONEPEZIL",
+        "ar": "دونبيزيل"
+      }
+    ],
+    "classification": {
+      "en": "Anti-Alzheimer's",
+      "ar": "مضاد للزهايمر"
+    },
+    "indications": [
+      {
+        "en": "Alzheimer's disease",
+        "ar": "مرض الزهايمر"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by increasing the levels of a chemical in the brain that is important for memory and thought, helping to improve symptoms of Alzheimer's.",
+      "ar": "يعمل على زيادة مستويات مادة كيميائية في الدماغ مهمة للذاكرة والتفكير، مما يساعد على تحسين أعراض الزهايمر."
+    },
+    "image_url": [
+      "https://lh3.googleusercontent.com/proxy/EhujQ1_Ei09309hpuuSIDgL6yPpk2qjWYFF6hS4Q1XNdLA_e-9yLAUc1Kxxn3xAigTYGH78sR7SgK_NAWxejy9w9ZQJWdy7DX4YWgJfEsaMsyhDngPX5UqZSHpH3JjA"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AVOSOYA",
+      "ar": "أفوصويا"
+    },
+    "active_ingredients": [
+      {
+        "en": "AVOCADO OIL",
+        "ar": "زيت الأفوكادو"
+      },
+      {
+        "en": "SOYA BEAN OIL",
+        "ar": "زيت فول الصويا"
+      }
+    ],
+    "classification": {
+      "en": "anti-rheumatic",
+      "ar": "مضاد للروماتيزم"
+    },
+    "indications": [
+      {
+        "en": "Osteoarthritis",
+        "ar": "التهاب المفاصل التنكسي (الخشونة)"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by helping to repair cartilage in the joints, which reduces pain and improves movement in conditions like osteoarthritis.",
+      "ar": "يعمل على المساعدة في إصلاح الغضاريف في المفاصل، مما يقلل الألم ويحسن الحركة في حالات مثل التهاب المفاصل التنكسي."
+    },
+    "image_url": [
+      "https://lh3.googleusercontent.com/proxy/4lk-oZkZ5JzrlqVCeo4FCMVzxlikbAvt3UqXzqbDI0dNaTCaBU93biHmFwmw5iT7_Ur6nG3LTJJrpovOu2d6Axy4cYKNhUxfsa0kuHcb13T0GBuzYVn0ECj3W6o"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ATOMOXAPEX",
+      "ar": "أتوموكسابكس"
+    },
+    "active_ingredients": [
+      {
+        "en": "ATOMOXETINE",
+        "ar": "أتوموكسيتين"
+      }
+    ],
+    "classification": {
+      "en": "ADHD",
+      "ar": "لعلاج فرط الحركة وتشتت الانتباه"
+    },
+    "indications": [
+      {
+        "en": "ADHD (Attention-Deficit/Hyperactivity Disorder)",
+        "ar": "اضطراب فرط الحركة وتشتت الانتباه (ADHD)"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by increasing a certain chemical in the brain to help improve focus, reduce impulsivity, and control hyperactivity.",
+      "ar": "يعمل على زيادة مادة كيميائية معينة في الدماغ للمساعدة في تحسين التركيز وتقليل الاندفاع والنشاط الزائد."
+    },
+    "image_url": [
+      "https://lh6.googleusercontent.com/proxy/AWngG9XMeyTEVBGE_qjFzZEurzUyno5vS52n7xGlkKMJAhSd-isjlOz9JbxTfUxxo9q_A5YcTjByUhAaP3yV4RdJTMwxNkcZhIZWsGdtIUV3-Tx7joHNbjqm0uj8jk1A4g"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ATACAND",
+      "ar": "أتاكاند"
+    },
+    "active_ingredients": [
+      {
+        "en": "CANDESARTAN CILEXETIL",
+        "ar": "كانديسارتان سيليكستيل"
+      }
+    ],
+    "classification": {
+      "en": "Antihypertensive",
+      "ar": "خافض لضغط الدم"
+    },
+    "indications": [
+      {
+        "en": "High blood pressure",
+        "ar": "ارتفاع ضغط الدم"
+      },
+      {
+        "en": "Heart failure",
+        "ar": "فشل القلب"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by relaxing blood vessels, which allows blood to flow more easily and lowers blood pressure.",
+      "ar": "يعمل على إرخاء الأوعية الدموية، مما يسمح بتدفق الدم بسهولة أكبر ويخفض ضغط الدم."
+    },
+    "image_url": [
+      "https://dawadose.com/wp-content/uploads/2024/10/Atacand-4mg-28-Tablets.webp"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ATCOCOXIB",
+      "ar": "أتكوكوكسيب"
+    },
+    "active_ingredients": [
+      {
+        "en": "ETORICOXIB",
+        "ar": "إيتوريكوكسيب"
+      }
+    ],
+    "classification": {
+      "en": "NSAID (Non-Steroidal Anti-Inflammatory Drug)",
+      "ar": "مضاد التهاب غير ستيرويدي"
+    },
+    "indications": [
+      {
+        "en": "Pain and inflammation",
+        "ar": "الألم والالتهاب"
+      },
+      {
+        "en": "Gout",
+        "ar": "النقرس"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by selectively blocking the chemicals that cause pain and inflammation in the body.",
+      "ar": "يعمل على منع المواد الكيميائية التي تسبب الألم والالتهاب في الجسم."
+    },
+    "image_url": [
+      "https://www.atcopharma.com.eg/wp-content/uploads/2024/02/Produnct-Human-6.png"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ATOREZA",
+      "ar": "أتوريزا"
+    },
+    "active_ingredients": [
+      {
+        "en": "ATORVASTATIN",
+        "ar": "أتورفاستاتين"
+      },
+      {
+        "en": "EZETIMIBE",
+        "ar": "إيزيتيميب"
+      }
+    ],
+    "classification": {
+      "en": "Antihyperlipidemic",
+      "ar": "خافض للدهون"
+    },
+    "indications": [
+      {
+        "en": "High cholesterol",
+        "ar": "ارتفاع الكوليسترول"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by reducing the production of cholesterol in the liver and blocking its absorption from food in the intestines, which lowers blood cholesterol levels.",
+      "ar": "يعمل على تقليل إنتاج الكوليسترول في الكبد ومنع امتصاصه من الطعام في الأمعاء، مما يخفض مستويات الكوليسترول في الدم."
+    },
+    "image_url": [
+      "https://makeyya.com/wp-content/uploads/2024/11/inPixioAI_image-7.jpeg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ATORSTAT",
+      "ar": "أتورستات"
+    },
+    "active_ingredients": [
+      {
+        "en": "ATORVASTATIN",
+        "ar": "أتورفاستاتين"
+      }
+    ],
+    "classification": {
+      "en": "Antihyperlipidemic",
+      "ar": "خافض للدهون"
+    },
+    "indications": [
+      {
+        "en": "High cholesterol",
+        "ar": "ارتفاع الكوليسترول"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by reducing the production of cholesterol in the liver, which lowers blood cholesterol levels.",
+      "ar": "يعمل على تقليل إنتاج الكوليسترول في الكبد، مما يخفض مستويات الكوليسترول في الدم."
+    },
+    "image_url": [
+      "https://lh3.googleusercontent.com/proxy/52IiNB8frs_TaHYdp-O4sHRgU3DPpTpItasgSzF0Omc8LdEHao97gF-PlKFg7MoSDnCUP7xkfkD-iktzZixmnvZ-N6xQ7NNKCFSS-auZswZeq7Ct5r6ewVwA38SmAZlHMw"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AVEROTHIAZIDE",
+      "ar": "أفيروثيازيد"
+    },
+    "active_ingredients": [
+      {
+        "en": "AMLODIPINE",
+        "ar": "أملوديبين"
+      },
+      {
+        "en": "OLMESARTAN",
+        "ar": "أولميسارتان"
+      },
+      {
+        "en": "HYDROCHLOROTHIAZIDE",
+        "ar": "هيدروكلوروثيازيد"
+      }
+    ],
+    "classification": {
+      "en": "Antihypertensive",
+      "ar": "خافض لضغط الدم"
+    },
+    "indications": [
+      {
+        "en": "High blood pressure",
+        "ar": "ارتفاع ضغط الدم"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by combining three different mechanisms to relax blood vessels and remove excess fluid from the body, which significantly lowers blood pressure.",
+      "ar": "يعمل على الجمع بين ثلاث آليات مختلفة لإرخاء الأوعية الدموية وإزالة السوائل الزائدة من الجسم، مما يؤدي إلى خفض ضغط الدم بشكل كبير."
+    },
+    "image_url": [
+      "https://dkud4u09qff41.cloudfront.net/Products/75cc9213-db27-4676-aac5-82ea4e071753.png"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AVIVAVASC",
+      "ar": "أفيفافاسك"
+    },
+    "active_ingredients": [
+      {
+        "en": "AMLODIPINE",
+        "ar": "أملوديبين"
+      },
+      {
+        "en": "VALSARTAN",
+        "ar": "فالسارتان"
+      }
+    ],
+    "classification": {
+      "en": "Antihypertensive",
+      "ar": "خافض لضغط الدم"
+    },
+    "indications": [
+      {
+        "en": "High blood pressure",
+        "ar": "ارتفاع ضغط الدم"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by combining two different drugs that relax and widen blood vessels to more effectively lower blood pressure.",
+      "ar": "يعمل على الجمع بين دوائين مختلفين يعملان على إرخاء وتوسيع الأوعية الدموية لخفض ضغط الدم بشكل أكثر فعالية."
+    },
+    "image_url": [
+      "https://pharmapedia.pw/wp-content/uploads/%D8%A7%D9%81%D9%8A%D9%81%D8%A7%D9%81%D8%A7%D8%B3%D9%83-Avivavasc-10.webp"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AWADIST",
+      "ar": "أواديست"
+    },
+    "active_ingredients": [
+      {
+        "en": "PARACETAMOL",
+        "ar": "باراسيتامول"
+      }
+    ],
+    "classification": {
+      "en": "Analgesic & Antipyretic",
+      "ar": "مسكن ومضاد للحمى"
+    },
+    "indications": [
+      {
+        "en": "Pain relief",
+        "ar": "تسكين الألم"
+      },
+      {
+        "en": "Fever",
+        "ar": "الحمى"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works in the brain to block certain chemical messengers that cause pain and fever.",
+      "ar": "يعمل في الدماغ على منع رسل كيميائية معينة تسبب الألم والحمى."
+    },
+    "image_url": [
+      "https://taypharmacies.com/wp-content/uploads/2024/08/2024-08-24T135631.734.png"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ATROZEMB",
+      "ar": "أتروزيمب"
+    },
+    "active_ingredients": [
+      {
+        "en": "ATORVASTATIN",
+        "ar": "أتورفاستاتين"
+      },
+      {
+        "en": "EZETIMIBE",
+        "ar": "إيزيتيميب"
+      }
+    ],
+    "classification": {
+      "en": "Antihyperlipidemic",
+      "ar": "خافض للدهون"
+    },
+    "indications": [
+      {
+        "en": "High cholesterol",
+        "ar": "ارتفاع الكوليسترول"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by reducing the production of cholesterol in the liver and blocking its absorption from food in the intestines, which lowers blood cholesterol levels.",
+      "ar": "يعمل على تقليل إنتاج الكوليسترول في الكبد ومنع امتصاصه من الطعام في الأمعاء، مما يخفض مستويات الكوليسترول في الدم."
+    },
+    "image_url": [
+      "https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/atrozemb-2010mg-30tab-itzy-01677420392.png"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ATSHI",
+      "ar": "أتـشي"
+    },
+    "active_ingredients": [
+      {
+        "en": "LORATADINE",
+        "ar": "لوراتادين"
+      },
+      {
+        "en": "PARACETAMOL",
+        "ar": "باراسيتامول"
+      },
+      {
+        "en": "PSEUDOEPHEDRINE",
+        "ar": "سودوإيفيدرين"
+      }
+    ],
+    "classification": {
+      "en": "Cold & Flu",
+      "ar": "أدوية البرد والإنفلونزا"
+    },
+    "indications": [
+      {
+        "en": "Cold and flu symptoms",
+        "ar": "أعراض البرد والإنفلونزا"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by combining an antihistamine to reduce sneezing, a pain reliever to fight pain and fever, and a decongestant to clear a stuffy nose.",
+      "ar": "يعمل على الجمع بين مضاد للهيستامين لتقليل العطس، ومسكن للألم ومضاد للحمى، ومزيل للاحتقان لتنظيف الأنف المسدود."
+    },
+    "image_url": [
+      "https://www.rosheta.com/upload/7c44424b0d1b14b05590e42904778d69752f411661a241205b9bcb55a169bf93.webp"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AZGOVANC",
+      "ar": "أزجوفانس"
+    },
+    "active_ingredients": [
+      {
+        "en": "OMEPRAZOLE",
+        "ar": "أوميبرازول"
+      },
+      {
+        "en": "SODIUM BICARBONATE",
+        "ar": "بيكربونات الصوديوم"
+      }
+    ],
+    "classification": {
+      "en": "Anti-ulcer",
+      "ar": "مضاد للقرحة"
+    },
+    "indications": [
+      {
+        "en": "GERD and heartburn",
+        "ar": "ارتجاع المريء وحرقة المعدة"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by combining a drug that reduces stomach acid production with an antacid that quickly neutralizes existing acid to provide fast and long-lasting relief from heartburn.",
+      "ar": "يعمل على الجمع بين دواء يقلل إنتاج حمض المعدة ومضاد للحموضة يعادل الحمض الموجود بسرعة، لتوفير راحة سريعة وطويلة الأمد من حرقة المعدة."
+    },
+    "image_url": [
+      "https://dkud4u09qff41.cloudfront.net/Products/252ab091-3f35-44d9-8c6b-2340ea06311b.jpeg"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AVEROMILAN",
+      "ar": "أفيروميلان"
+    },
+    "active_ingredients": [
+      {
+        "en": "MILNACIPRAN HYDROCHLORIDE",
+        "ar": "ميلناسيبران هيدروكلوريد"
+      }
+    ],
+    "classification": {
+      "en": "Antidepressant",
+      "ar": "مضاد للاكتئاب"
+    },
+    "indications": [
+      {
+        "en": "Major depressive disorder",
+        "ar": "اضطراب الاكتئاب الشديد"
+      },
+      {
+        "en": "Fibromyalgia",
+        "ar": "الألم العضلي الليفي"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by increasing the levels of certain chemicals in the brain that help to improve mood and reduce pain signals.",
+      "ar": "يعمل على زيادة مستويات مواد كيميائية معينة في الدماغ تساعد على تحسين المزاج وتقليل إشارات الألم."
+    },
+    "image_url": [
+      "https://api.c0umyt3cda-pharmaove1-p1-public.model-t.cc.commerce.ondemand.com/medias/000000000000020817.jpg?context=bWFzdGVyfGltYWdlc3w4ODI4OXxpbWFnZS9qcGVnfGFEYzRMMmhsWXk4eE1EZzVOekl6TmpjMU5EUTJNaTh3TURBd01EQXdNREF3TURBd01qQTRNVGN1YW5Cbnw5ODdmZGU4M2QwZGU2MTg5MTRkZTZjZThhMzk3NjVkZjI5ZGM4ZTU4MThlMTE3NThjMmY1ODZjODVhZTZiMTM1"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "AVEROFAGE",
+      "ar": "أفيروفاج"
+    },
+    "active_ingredients": [
+      {
+        "en": "METFORMIN",
+        "ar": "ميتفورمين"
+      },
+      {
+        "en": "PIOGLITAZONE",
+        "ar": "بيوجليتازون"
+      }
+    ],
+    "classification": {
+      "en": "Antidiabetic",
+      "ar": "مضاد للسكري"
+    },
+    "indications": [
+      {
+        "en": "Type 2 diabetes",
+        "ar": "داء السكري من النوع الثاني"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by combining two drugs that help lower blood sugar: one that reduces sugar production by the liver, and another that makes the body's cells more sensitive to insulin.",
+      "ar": "يعمل على الجمع بين دوائين يساعدان على خفض سكر الدم: أحدهما يقلل إنتاج السكر من الكبد، والآخر يجعل خلايا الجسم أكثر حساسية للأنسولين."
+    },
+    "image_url": [
+      "https://lh4.googleusercontent.com/proxy/sefDQ_dUmVeRXnxGmtS2J48ve1cE1z79zoVbFEF51UR7qEfGZEGkCUIG2hzmCCC9gSnbLtIoDF_yrCypLGxyvQOThudgRlSi48xchJbqdQiUSiaOawbsTPvww5UbFui06a_nDg_ChQ"
+    ]
+  },
+  {
+    "drug_name": {
+      "en": "ANGIOFOX",
+      "ar": "أنجيوفوكس"
+    },
+    "active_ingredients": [
+      {
+        "en": "ISOSORBIDE-5-MONONITRATE",
+        "ar": "أيزوسوربايد-5-أحادي النترات"
+      }
+    ],
+    "classification": {
+      "en": "Antiangina",
+      "ar": "مضاد للذبحة الصدرية"
+    },
+    "indications": [
+      {
+        "en": "Angina (chest pain)",
+        "ar": "الذبحة الصدرية (ألم الصدر)"
+      }
+    ],
+    "how_it_works": {
+      "en": "It works by relaxing and widening blood vessels, which improves blood flow to the heart and helps prevent chest pain.",
+      "ar": "يعمل على إرخاء وتوسيع الأوعية الدموية، مما يحسن تدفق الدم إلى القلب ويساعد على منع آلام الصدر."
+    },
+    "image_url": [
+      "https://lh5.googleusercontent.com/proxy/O7T747jkxfDDGZ79MUB0hYHKcJhTvrODzhXSIfojq2UiBWs44amZeDmdRfmgMK1VRwx3dxDkjtbvnLIkYalwfewkxg8InsK8YDnVEyYg4mRLr91VYZotiEDqCckdZA2_scThoNY"
+    ]
+  }
+]
